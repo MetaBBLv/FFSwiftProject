@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.8.2)
+  - FDFullscreenPopGesture (1.1)
+  - HandyJSON (5.0.0)
+  - Kingfisher (5.6.0)
+  - MJRefresh (3.2.0)
+  - RxSwift (5.0.0)
+  - SnapKit (5.0.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - FDFullscreenPopGesture
+  - HandyJSON
+  - Kingfisher
+  - MJRefresh
+  - RxSwift
+  - SnapKit
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FDFullscreenPopGesture
+    - HandyJSON
+    - Kingfisher
+    - MJRefresh
+    - RxSwift
+    - SnapKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  Kingfisher: 1a50df6880a60bae26f3e21a0df3d17b892f5e0b
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: e50f4cdbed665e41aabe84c0883f11ec0da76843
+
+COCOAPODS: 1.7.1
